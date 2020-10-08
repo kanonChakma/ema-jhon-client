@@ -1,0 +1,25 @@
+table{
+    font-size: 15px;
+    text-align: left;
+}
+.cart-btn{
+   width: 200px;
+   margin-top: 10px;
+   height: 30px;
+   background-color: goldenrod;
+   border: 1px solid;
+   cursor: pointer;
+   border-radius: 5px;
+}
+.cart a{
+    text-decoration:none;
+}
+.total{
+    color: #b12704;
+    font-weight: 700;
+    margin-top: 5px;
+    font-size: 20px;
+    line-height: 22px;
+    border-top: 1px solid gray;
+
+}
